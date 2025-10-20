@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::count << "Initial commit" << std : endl;
+    std::cout << "Initial commit" << std::endl;
     return 0;
 }

@@ -1,1 +1,1 @@
-add_executable(HttpServer main.cpp)
+add_executable(http_server main.cpp)
