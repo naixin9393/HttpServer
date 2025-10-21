@@ -14,7 +14,7 @@ A learning project to build an HTTP server from scratch using C++ and CMake.
 
 ### Phase 1: Basic TCP Server **(Current Phase)**
 - [x] Set up CMake project structure
-- [ ] Create basic socket wrapper
+- [X] Create basic socket
 - [ ] Implement TCP server that can accept connections
 - [ ] Handle basic send/receive operations
 - [ ] Implement proper error handling
